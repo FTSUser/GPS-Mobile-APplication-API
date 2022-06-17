@@ -33,9 +33,7 @@ const connection = async () => {
 
   await socketController(server, logger);
   server.listen(process.env.APP_PORT, async () => {
-    logger.info(
-      `${process.env.APP_RELEASE} server STARTED on port: ${process.env.APP_PORT}\n`
-    );
+    logger.info(`server STARTED on port: ${process.env.APP_PORT}\n`);
   });
   server.timeout = 120000;
 };
