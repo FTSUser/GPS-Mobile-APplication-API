@@ -1,0 +1,26 @@
+{
+  "EXISTS_ROLE": "Sorry, the specified role is already registered in the system.",
+  "INTERNAL_SERVER_ERROR": "Internal Server Error",
+  "INVALID_TOKEN": "Invalid token please login and try again",
+  "PASSWORD_NOT_MATCH": "Passwords you entered does not match",
+  "USER_NOT_EXIST": "User does not exist in the system",
+  "EMAIL_NOT_VERIFIED": "Please verify your account first with otp sent to your email or phone",
+  "INVALID_OLD_PASSWORD": "Invalid old password",
+  "INVALID_PARAMETERS": "please provide valid email or password",
+  "INVALID_PASSWORD": "please enter password",
+  "USER_DOES_NOT_EXIST": "User does not exist",
+  "ALREADY_EXISTS_PASSWORD": "new password must not be same as old password.",
+  "TYPE_NOT_SUPPORTED": "field must be provided in an array",
+  "SUPER_ADMIN_NOT_FOUND": "super admin not found in the system ",
+  "SUPER_ADMIN_NOT_EXIST": "Super Admin does not exist in the system",
+  "REQUIRED_FIELDS": "Please enter all required fields",
+  "NOT_FOUND": "No field found for given data",
+
+  "YOU_CAN_NOT_LOGIN": "you cannot login, may be your account is blocked",
+  "USER_ALREADY_EXIST": "User already exist in the system",
+  "INVALID_PASSWORD_OR_USER": "Invalid password or email",
+  "ENTER_LATITUDE_LONGITUDE": "Please enter latitude and longitude",
+  "EMAIL_NOT_VALID": "Please enter valid email",
+  "MOBILE_NOT_VALID": "Please enter valid mobile number",
+  "WRONG_CREDENTIALS": "Please enter mobile number or email and password"
+}
