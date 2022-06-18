@@ -3,4 +3,4 @@ node_modules
 package-lock.json
 *.zip
 *.tar.gz
-dump
+
