@@ -8,6 +8,7 @@ const logger = require("./logger/logger");
 const cors = require("cors");
 const utils = require("./utils/utils");
 var http = require("http");
+
 var app = express();
 
 var socketController = require("./controllers/user/socket");
